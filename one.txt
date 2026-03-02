@@ -3,3 +3,6 @@ Artificial Intelligence
 Hyderabad
 Bengalore
 Pune
+
+Mumbai, Delhi, Hyderabad
+
