@@ -4,5 +4,6 @@ Hyderabad
 Bengalore
 Pune
 
-Mumbai, Delhi, Hyderabad
+Mumbai, Delhi
 
+Bhubaneswar
